@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Flashlight</string>
+    <string name="flash_is_on">La lampe de poche est allumée</string>
+    <string name="flash_is_off">La lampe de poche est éteinte</string>
+</resources>
